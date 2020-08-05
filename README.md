@@ -37,13 +37,13 @@
 
 # Requirements :- 
 
-	1. Node js :- Link to Download (<a>https://nodejs.org/en/</a>). We not using node in this course but we needed npm(Node Pacakge Manager) which comes with node.
-	2. GitHub Account :- If you don't have it then move to this url and make one... https://github.com/
-	3. Git Bash :- https://git-scm.com/downloads
+	1. Node js :- Link to Download ( https://nodejs.org/en/ ). We not using node in this course but we needed npm(Node Pacakge Manager) which comes with node.
+	2. GitHub Account :- If you don't have it then move to this url and make one... ( https://github.com/ )
+	3. Git Bash :- ( https://git-scm.com/downloads )
 	# Note
 		For Mac users it may not allow to install git bash because of some security issue.
 		You can download it using HomeBrew. First you need to download Homebrew which is a package manager form OSX and then using this you can install git 		    bash easily
 	4. A text editor. It can any of your choice but I will recommend VS code and we will be using this only throughout out course. 
-		Download Link :- (https://code.visualstudio.com/)
+		Download Link :- ( https://code.visualstudio.com/ )
 
 
