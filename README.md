@@ -25,8 +25,7 @@
 		5. How to Think Components as Pure Functions
 	4. Lifecycle in React
 	5. State Management and Introduction to Redux
-	6. Making a Small TODO app using Redux and React (I will give a pre-build Node.js server for that So they can learn how to handle async redux operations using Redux thunk and if time remains then also i will give a gentle introduction to redux saga)
-
+	6. Making a Small TODO app using Redux and React.
 # Week3:-
 	1. Starting up out last Project which is a e-commerce website
 	2. Handling Authentication using firebase in React (Both as a observable and promise based) in our project
