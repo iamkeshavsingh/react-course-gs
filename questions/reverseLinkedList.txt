@@ -1,0 +1,11 @@
+Write a Program to reverse a Linked List By using :-
+
+1. Loops
+2. Recursion
+
+Without creating any extra Linked List.
+
+
+Input :- 1 --> 2 --> 3 --> 4 --> 5
+
+Output:- 5 --> 4 --> 3 --> 2 --> 1

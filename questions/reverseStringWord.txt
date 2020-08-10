@@ -1,0 +1,5 @@
+Reverse Each Word of string in place.
+
+Input:- I am a good Programmer
+
+Output:- I ma a doog remmargorP

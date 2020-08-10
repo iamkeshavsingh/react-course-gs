@@ -1,0 +1,32 @@
+You are given a function levelOrderTraversal(Node root) in which root is passed in it. By using this you have to print the level order traversal of a tree.
+
+
+Input:   
+
+            10
+            /\
+           /  \
+          20   30
+         /     /\
+        /     /  \
+       40    50   60
+Output:= 10,20,30,40,50,60
+
+You have to just complete this function:-
+
+And Node is a class which has data and left and right references
+class Node{
+    int data;
+    Node left;
+    Node right;
+}
+
+C++:-
+void levelOrderTraversal(Node root){
+
+}
+
+Java:-
+public static void levelOrderTraversal(Node root){
+
+}

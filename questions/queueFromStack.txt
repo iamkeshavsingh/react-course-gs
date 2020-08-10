@@ -1,0 +1,1 @@
+In this Question you have to implement a Queue from given two stacks.

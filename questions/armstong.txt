@@ -1,0 +1,17 @@
+Given a number x, determine whether the given number is Armstrong number or not. 
+
+Armstrong Number = abcd... = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + .... 
+
+Input : 120
+Output : No
+120 is not a Armstrong number.
+1*1*1 + 2*2*2 + 0*0*0 = 9
+
+Input : 1253
+Output : No
+1253 is not a Armstrong Number
+1*1*1*1 + 2*2*2*2 + 5*5*5*5 + 3*3*3*3 = 723
+
+Input : 1634
+Output : Yes
+1*1*1*1 + 6*6*6*6 + 3*3*3*3 + 4*4*4*4 = 1634
