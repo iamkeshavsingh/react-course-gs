@@ -1,0 +1,6 @@
+.show_todo {
+    width: 40%;
+    min-height: 200px;
+    background-color: #ddd;
+    padding: 2rem;
+}

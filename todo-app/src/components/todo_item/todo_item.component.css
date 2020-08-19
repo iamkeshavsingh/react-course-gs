@@ -1,0 +1,22 @@
+.todo_item_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo_item_wrapper_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 70%;
+}
+
+.todo_item_wrapper_actions {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.btn {
+    height: 50px;
+    width: 45%;
+}
